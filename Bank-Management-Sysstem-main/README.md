@@ -14,6 +14,3 @@ The Bank Management System is a desktop application developed in Java with a gra
 ## Prerequisites
 - Java Development Kit (JDK) 8 or above.
 - Basic understanding of Java, Java Swing, JDBC.
-
-## Contributing
-We welcome contributions to the Bank Management System project. Whether it's reporting bugs, proposing new features, or contributing code, your input is valuable. Please feel free to fork the repository, make changes, and submit pull requests. Ensure that your code adheres to the project's coding standards and that you have tested the changes adequately before submitting.
